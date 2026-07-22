@@ -7,4 +7,4 @@ npm install @google/genai
 
 then generate an API key from Google AI Studio  
 
-Use the key in the JS code.
+Use the key in the JS (script.js) code file.
